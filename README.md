@@ -1,4 +1,4 @@
-<h1 align="center">👋 Gustavo Fabián Delgado Torres</h1>
+h1 align="center">👋 Gustavo Fabián Delgado Torres</h1>
 <h3 align="center">💻 Estudiante de desarrollo de aplicaciones multiplataforma</h3>
 
 <p align="center">
@@ -34,7 +34,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 - 📚 Aprendizaje continuo  
 
 ---
-
 ## ⭐ Proyectos Destacados
 
 <table>
@@ -42,9 +41,12 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 
 <td width="33%" align="center">
 
+### 📱 App Android  
+Java · Android Studio  
 
+Aplicación móvil desarrollada en Android para gestión de tareas.
 
-➡️ [Ver repositorio](https://github.com/GustavoFabianDT.github.io)
+➡️ [Ver repositorio](https://github.com/GustavoFabianDT/PROYECTO_ANDROID)
 
 </td>
 
@@ -55,12 +57,18 @@ Java · Spring · Maven
 
 Backend REST para gestión de datos y servicios.
 
-➡️ [Ver repositorio](https://github.com/GustavoFabianDT/GustavoFabianDT.github.io)
+➡️ [Ver repositorio](https://github.com/GustavoFabianDT/API_REST)
 
 </td>
 
 <td width="33%" align="center">
 
+### 📊 Dashboard Web  
+React / Web  
+
+Panel interactivo de visualización de datos.
+
+➡️ [Ver repositorio](https://github.com/GustavoFabianDT/DASHBOARD)
 
 </td>
 
@@ -72,7 +80,7 @@ Backend REST para gestión de datos y servicios.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,PostgreSQL,git,github,html,css, visualstudiocode" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
 </p>
 
 ---
@@ -102,8 +110,6 @@ Backend REST para gestión de datos y servicios.
 ---
 
 ## 📫 Contacto
-
-<p align="center">
 
 💼 LinkedIn — https://www.linkedin.com/in/gustavo-fabi%C3%A1n-delgado-torres-8860893b4   
 📧 Email — gustavofdt@hotmail.com  
