@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href=https://www.linkedin.com/in/gustavo-fabi%C3%A1n-delgado-torres-8860893b4 >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:gustavofdt@hotmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/juanespana">
+  <a href="https://github.com/GustavoFabianDT">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
 - 🚀 Interés en desarrollo  de Aplicaciones  
-- 📱 Desarrollo Android con Java  
+- 📱 Desarrollo de aplicaciones con Java  
 - ⚙️ APIs REST con Java / Spring  
 - 🌍 Trabajo con metodologías ágiles  
 - 📚 Aprendizaje continuo  
@@ -42,10 +42,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 
 <td width="33%" align="center">
 
-### 📱 App Android  
-Java · Android Studio  
 
-Aplicación móvil desarrollada en Android para gestión de tareas.
 
 ➡️ [Ver repositorio](https://github.com/GustavoFabianDT.github.io)
 
@@ -58,18 +55,12 @@ Java · Spring · Maven
 
 Backend REST para gestión de datos y servicios.
 
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
+➡️ [Ver repositorio](https://github.com/GustavoFabianDT/GustavoFabianDT.github.io)
 
 </td>
 
 <td width="33%" align="center">
 
-### 📊 Dashboard Web  
-React / Web  
-
-Panel interactivo de visualización de datos.
-
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
 
 </td>
 
@@ -81,7 +72,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,PostgreSQL,git,github,html,css, visualstudiocode" />
 </p>
 
 ---
@@ -100,7 +91,12 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoFabianDT&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFabianDT                                                   &layout=compact" />
+ <p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoFabianDT&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 </p>
 
 ---
@@ -111,6 +107,12 @@ Panel interactivo de visualización de datos.
 
 💼 LinkedIn — https://www.linkedin.com/in/gustavo-fabi%C3%A1n-delgado-torres-8860893b4   
 📧 Email — gustavofdt@hotmail.com  
-🌐 Portfolio — gustavofdt.github.io  
+🌐 Portfolio — GustavoFabianDT  
 
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil — github.com/GustavoFabianDT
 </p>
