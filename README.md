@@ -1,9 +1,5 @@
-<div align="center"
-     style="background: linear-gradient(135deg, #7a7a7a, #0d2a63);
-            padding: 30px;
-            border-radius: 16px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <h1 style="color: #ffffff; margin: 0; font-size: 32px;">
+
+  <h1>
     Gustavo Fabián Delgado Torres
   </h1>
   <p style="color: #d1d5db; margin-top: 8px;">
@@ -11,7 +7,9 @@
   </p>
 </div>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e6e6e,100:0a1f44&height=200&section=header&text=Gustavo%20Fabián%20Delgado%20Torres&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
