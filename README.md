@@ -1,5 +1,15 @@
-h1 align="center">👋 Gustavo Fabián Delgado Torres</h1>
-<h3 align="center">💻 Estudiante de desarrollo de aplicaciones multiplataforma</h3>
+<div align="center"
+     style="background: linear-gradient(135deg, #7a7a7a, #0d2a63);
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+  <h1 style="color: #ffffff; margin: 0; font-size: 32px;">
+    Gustavo Fabián Delgado Torres
+  </h1>
+  <p style="color: #d1d5db; margin-top: 8px;">
+    💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma
+  </p>
+</div>
 
 <p align="center">
   <img src="perfil.jpg" width=300 />
