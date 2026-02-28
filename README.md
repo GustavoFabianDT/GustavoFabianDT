@@ -11,9 +11,7 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="perfil.jpg" width=300 />
-</p>
+
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
